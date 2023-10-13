@@ -1,7 +1,8 @@
 # EDA_project
 
-#데이터 불러오기
+# 데이터 불러오기
 ![image](https://github.com/hyunwoopark0/EDA_project/assets/144861873/2b02b1cb-d40e-4686-b12d-9b4d81c585c4){width=50 height=50}
+
 ---
 
 ![image](https://github.com/hyunwoopark0/EDA_project/assets/144861873/1c4887a3-2404-42e2-90ea-0d995bd24faa){width=150 height=100}
