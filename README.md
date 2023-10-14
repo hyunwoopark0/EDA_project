@@ -28,22 +28,16 @@
 <img src="https://github.com/hyunwoopark0/EDA_project/assets/144861873/86723cbd-60bb-43d9-b17a-ab9eb66479af" width="700" height="500">
 
 ---
-## 고객 분류
-<img src="https://github.com/hyunwoopark0/EDA_project/assets/144861873/2504d5b0-173a-4961-8dea-6442d92ba9a3" width="700" height="500">
-
----
 ## 구매 주기
 <img src="https://github.com/hyunwoopark0/EDA_project/assets/144861873/77579f77-21ee-46d9-957f-2e8d7c15a04f" width="700" height="500">
 
 ---
+## 고객 분류
+<img src="https://github.com/hyunwoopark0/EDA_project/assets/144861873/2504d5b0-173a-4961-8dea-6442d92ba9a3" width="700" height="500">
 
-
-
-
-
-
-
-
-
-
-![image](https://github.com/hyunwoopark0/EDA_project/assets/144861873/599347fe-c47c-4d35-a7e0-fe911aa2ab39){width=150 height=100}
+---
+## 구매 횟수별 쿠폰사용분포
+<img src="https://github.com/hyunwoopark0/EDA_project/assets/144861873/6f8bbd05-8f78-472d-a19f-58f3d5631adf" width="700" height="500">
+<img src="https://github.com/hyunwoopark0/EDA_project/assets/144861873/0fd1e5c0-a1b5-42f0-bf2c-1740ab042a2d" width="700" height="500">
+<img src="https://github.com/hyunwoopark0/EDA_project/assets/144861873/9872e0af-54ff-4110-b708-6f3c4c2662aa" width="700" height="500">
+<img src="https://github.com/hyunwoopark0/EDA_project/assets/144861873/88a1aa06-3f7f-4bea-9009-c8c30e0ca566" width="700" height="500">
